@@ -1,0 +1,3 @@
+,Bustillo,Negrete,1995,Oct,2,Estado de Mexico,hombre,
+Luisin,,Negrete,1995,Oct,2,Estado de Mexico,hombre,
+Luisin,Bustillo,,1995,Oct,2,Estado de Mexico,hombre,
