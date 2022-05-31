@@ -43,7 +43,7 @@
 				<version>2.20.1</version>
 				<configuration>
 					<includes>
-						<include>testng.xml</include>
+						<include>**/*.java</include>
 					</includes>
 				</configuration>
 			</plugin>
