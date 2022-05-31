@@ -49,6 +49,7 @@
 				<version>2.20.1</version>
 
 				<configuration>
+					<encoding>UTF-8</encoding>
 					<suiteXmlFiles>
 						<suiteXmlFile>${testng.xml}</suiteXmlFile>
 					</suiteXmlFiles>
