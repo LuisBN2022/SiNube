@@ -6,6 +6,11 @@
 	<artifactId>EjercicioSinube</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
@@ -42,6 +47,8 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.20.1</version>
 				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
 					<includes>
 						<include>**/*.java</include>
 					</includes>

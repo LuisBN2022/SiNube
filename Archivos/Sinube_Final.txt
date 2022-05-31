@@ -1,0 +1,4 @@
+Luisin,Bustillo,, 1995,Oct,2,Estado de Mexico,hombre,BUXL951002HMCSXS05,BUXL9510021X3
+Luigini,Bustillo,Negrete, 1995,Oct,2,Estado de Mexico,hombre,BUNL951002HMCSGG02,BUNL9510028Q7
+Karla,Cruz,Tapia, 1995,Sept,5,Colima,mujer,CUTK950905MCMRPR02,CUTK950905JG0
+Ramon,Valdez,Mendez, 1980,Ene,12,Oaxaca,hombre,VAMR800112HOCLNM05,VAMR800112731
