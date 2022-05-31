@@ -5,5 +5,5 @@
     <classes>
       <class name="Robot"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> 
+</suite>

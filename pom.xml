@@ -6,12 +6,7 @@
 	<artifactId>EjercicioSinube</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<properties>
-		<suiteXmlFile>testng.xml</suiteXmlFile>
-	</properties>
-
 	<dependencies>
-
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
@@ -32,8 +27,8 @@
 		</dependency>
 	</dependencies>
 
-	<build>
 
+	<build>
 		<plugins>
 
 			<plugin>
@@ -45,11 +40,11 @@
 			<plugin>
 				<groupId>org.apache.maven.puglins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
-				<version>2.19.1</version>
+				<version>2.20.1</version>
 				<configuration>
-					<suiteXmlFiles>
-						<suiteXmlFile>${testng.xml}</suiteXmlFile>
-					</suiteXmlFiles>
+					<includes>
+						<include>testng.xml</include>
+					</includes>
 				</configuration>
 			</plugin>
 
