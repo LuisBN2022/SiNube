@@ -1,3 +1,4 @@
+// Clase de getter y setter
 
 public class Persona {
 	
